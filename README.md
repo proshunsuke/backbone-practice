@@ -1,4 +1,4 @@
 backbone-practice
 =================
 
-backbone
+this is practice page of backbone.js
